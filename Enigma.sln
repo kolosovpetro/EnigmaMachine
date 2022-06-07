@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma", "Enigma\Enigma.csproj", "{63F1B853-E5D6-44E8-8861-AD0DCD5E04FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma.Tests", "Enigma.Tests\Enigma.Tests.csproj", "{E1215DB2-D7F8-4D3B-9D7D-D0066E735D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma.UI", "Enigma.UI\Enigma.UI.csproj", "{196F5810-BC2B-4CE4-92CB-19FE1BFA7466}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{F646FF3C-122A-42F9-A587-E69CD006DE0A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F1B853-E5D6-44E8-8861-AD0DCD5E04FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F1B853-E5D6-44E8-8861-AD0DCD5E04FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F1B853-E5D6-44E8-8861-AD0DCD5E04FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F1B853-E5D6-44E8-8861-AD0DCD5E04FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1215DB2-D7F8-4D3B-9D7D-D0066E735D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1215DB2-D7F8-4D3B-9D7D-D0066E735D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1215DB2-D7F8-4D3B-9D7D-D0066E735D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1215DB2-D7F8-4D3B-9D7D-D0066E735D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196F5810-BC2B-4CE4-92CB-19FE1BFA7466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196F5810-BC2B-4CE4-92CB-19FE1BFA7466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196F5810-BC2B-4CE4-92CB-19FE1BFA7466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196F5810-BC2B-4CE4-92CB-19FE1BFA7466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
